@@ -23,6 +23,7 @@ namespace esercitazionegit
         public MainWindow()
         {
             InitializeComponent();
+            txt_nome.Text = "merge";
         }
     }
 }
